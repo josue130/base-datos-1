@@ -20,19 +20,19 @@ Se utiliza la letra mayúscula para el comienzo de cada palabra en la entidad. E
 # *Estandar para atributos*
 Se utiliza la primera letra en mayúscula para el comienzo de la palabra, si el nombre del atributo incluye dos palabras cada palabra empezara en mayúscula. Ejemplo:
 
-**Create Table PascalCase**(
+Create Table PascalCase(
 
-	Nombre varchar(30) not null,
-	FechaPrestamo date
+	*Nombre varchar(30) not null*,
+	*FechaPrestamo date*
 	
 );
 
 # *Estandar para llaves primarias*
 Para las llaves primarias se utiliza de igual manera la letra en mayúscula para el comienzo de la palabra, si el nombre del atributo incluye dos palabras cada palabra empezara en mayúscula. Ejemplo:
 
-**Create Table PascalCase**(
+Create Table PascalCase(
 
-	Nombre varchar(30) primary key
+	*Nombre varchar(30) primary key*
 	
 );
 
@@ -44,7 +44,7 @@ Para las llaves primarias se utiliza de igual manera la letra en mayúscula para
 
 Una excepción en este estándar es el uso Pk que suele ser utilizado al inicio de llave primaria o final. Ejemplo:
 
-**Create Table PascalCase**(
+Create Table PascalCase(
 
 	NombrePk varchar(30) primary key
 	
