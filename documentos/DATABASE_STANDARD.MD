@@ -1,17 +1,11 @@
 <!--ts-->
 # Índices
-* [Introducción](#item1)
-* [Justificación](#item2)
-* [Estandar para entidades](#item3)
-* [Estandar para atributos](#item4)
-* [Estandar para llaves primarias](#item5)
-* [Estandar para llaves foráneas](#item6)
-<a name="item1"></a>
-<a name="item2"></a>
-<a name="item3"></a>
-<a name="item4"></a>
-<a name="item5"></a>
-<a name="item6"></a>
+* [Introducción](#introducción)
+* [Justificación](#justificación)
+* [Estandar para entidades](#estandar-para-entidades)
+* [Estandar para atributos](#estandar-para-atributos)
+* [Estandar para llaves primarias](#estandar-para-llaves-primarias)
+* [Estandar para llaves foráneas](#estandar-para-llaves-foráneas)
 <!--te-->
 
 
