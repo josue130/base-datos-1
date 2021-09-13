@@ -1,6 +1,7 @@
 
 # Índices
-1- [Introducción](#introducción)
+1- [Introducción]
+2- [Estandar para para llaves foráneas]
 
 
 
