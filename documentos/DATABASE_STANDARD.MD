@@ -1,8 +1,8 @@
-
 # Índices
-1- [Introducción]
+1. [Introdicción](#intro)
+2. [Justificación](#jus)
 
-2- [Estandar para para llaves foráneas]
+<a name intro></a>
 
 
 
