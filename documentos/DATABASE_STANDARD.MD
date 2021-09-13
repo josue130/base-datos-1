@@ -5,7 +5,7 @@
 * [Estandar para entidades](#item3)
 * [Estandar para atributos](#item4)
 * [Estandar para llaves primarias](#item5)
-* [Estandar para para llaves foráneas](#item6)
+* [Estandar para llaves foráneas](#item6)
 <a name="item1"></a>
 <a name="item6"></a>
 ### Estandar para para llaves foráneas
@@ -55,7 +55,7 @@ Create Table PascalCase(
 	Nombre_Pk varchar(30) primary key o Pk_NombreUsuario varchar(30) primary key
 );
 
-# *Estandar para para llaves foráneas*
+# *Estandar para llaves foráneas*
 Para las llaves foráneas se utiliza de igual manera la letra en mayúscula para el comienzo de la palabra, si el nombre del atributo incluye dos palabras cada palabra empezara en mayúscula, se utiliza el distintivo Fk para el nombre al inicio o al final con un guion bajo. Ejemplo:
 
 create table PascalCase(
