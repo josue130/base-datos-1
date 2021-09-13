@@ -6,7 +6,7 @@
 * [Estandar para atributos](#estandar-para-atributos)
 * [Estandar para llaves primarias](#estandar-para-llaves-primarias)
 * [Estandar para llaves foráneas](#estandar-para-llaves-foráneas)
-* [Estandar para índices](#estandar-para-indices)
+* [Estandar para índices](#estandar-para-índices)
 <!--te-->
 
 
