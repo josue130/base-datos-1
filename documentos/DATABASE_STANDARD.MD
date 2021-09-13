@@ -1,3 +1,7 @@
+<!--ts-->
+# Índice
+	*[Introducción]
+
 
 # *Introducción*
 
@@ -36,12 +40,25 @@ Create Table PascalCase(
 );
 
 
-Una excepción en este estándar es el uso Pk que suele ser utilizado al inicio de llave primaria o final. Ejemplo:
+Una excepción en este estándar es el uso Pk que suele ser utilizado al inicio de llave primaria o final con un guion bajo. Ejemplo:
 
 Create Table PascalCase(
 
-	NombrePk varchar(30) primary key o PkNombreUsuario varchar(30) primary key
+	Nombre_Pk varchar(30) primary key o Pk_NombreUsuario varchar(30) primary key
 );
+
+# *Estandar para para llaves foráneas*
+Para las llaves foráneas se utiliza de igual manera la letra en mayúscula para el comienzo de la palabra, si el nombre del atributo incluye dos palabras cada palabra empezara en mayúscula, se utiliza el distintivo Fk para el nombre al inicio o al final con un guion bajo. Ejemplo:
+
+create table PascalCase(
+
+	Constraint Fk_Carnet Foreign Key (Carnet) References Estudiante(Carnet),
+	Constraint CodigoLibro_Fk Foreign key (CodigoLibro) References Libro(Codigo)
+	
+	);
+
+
+
 
 
 
