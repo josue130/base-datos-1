@@ -7,6 +7,10 @@
 * [Estandar para llaves primarias](#item5)
 * [Estandar para llaves foráneas](#item6)
 <a name="item1"></a>
+<a name="item2"></a>
+<a name="item3"></a>
+<a name="item4"></a>
+<a name="item5"></a>
 <a name="item6"></a>
 ### Estandar para para llaves foráneas
 
