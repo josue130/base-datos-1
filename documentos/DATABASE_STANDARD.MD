@@ -13,11 +13,26 @@ Se utiliza la letra mayuscula para el comienzo de cada palabra en la entidad.
 
 Ejemplo:
 
-Create Table PascalCase(
+**Create Table PascalCase**(
 
 	NombreEjemplo varchar(30) not null
 	
 );
+
+# *Estandar para atributos*
+Se utiliza la primera letra en mayuscula para el comienzo de la pralabra, si el nombre del atributo incluye dos palabras cada palabra empezara en mayuscula.
+Ejemplo:
+
+**Create Table PascalCase**(
+
+	Nombre varchar(30) not null,
+	FechaPrestamo date
+	
+);
+
+
+
+
 
 
                                                            
