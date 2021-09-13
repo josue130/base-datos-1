@@ -1,10 +1,10 @@
 # Índices
-1. [Introdicción](#intro)
-2. [Justificación](#jus)
+1. [*Introducción*](#intro)
+2. [*Justificación*](#jus)
 3. [Estandar para entidades](#EstandarEn)
 4. [Estandar para atributos](#EstandarAtr)
 5. [Estandar para llaves primarias](#EstandarPri)
-6. [Estandar para para llaves foráneas](#EstandarFo)
+6. [*Estandar para para llaves foráneas*](#EstandarFo)
 
 <a name="intro"></a>
 <a name="jus"></a>
