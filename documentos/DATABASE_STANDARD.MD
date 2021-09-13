@@ -6,11 +6,11 @@
 5. [Estandar para llaves primarias](#EstandarPri)
 6. [Estandar para para llaves foráneas](#EstandarFo)
 
-## <a name="intro"></a>
-## <a name="jus"></a>
-## <a name="EstandarEn"></a>
-## <a name="EstandarPri"></a>
-## <a name="EstandarFo"></a>
+<a name="intro"></a>
+<a name="jus"></a>
+<a name="EstandarEn"></a>
+<a name="EstandarPri"></a>
+<a name="EstandarFo"></a>
 
 # *Introducción*
 
