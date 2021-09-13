@@ -12,8 +12,11 @@ Después de la investigación llegue a evaluar un estándar que me parecía fami
 Se utiliza la letra mayuscula para el comienzo de cada palabra en la entidad.
 
 Ejemplo:
+
 Create Table PascalCase(
+
 	NombreEjemplo varchar(30) not null
+	
 );
 
 
