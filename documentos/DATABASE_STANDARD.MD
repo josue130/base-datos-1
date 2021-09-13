@@ -62,6 +62,11 @@ create table PascalCase(
 	Constraint CodigoLibro_Fk Foreign key (CodigoLibro) References Libro(Codigo)
 	
 	);
+# *Estandar para indices*
+Para el estandar de indices se utiliza de igual manera la letra en mayúscula en el comienzo de la palabra. Ejemplos:
+
+Create Unique Clustered Index LibrosCodigo On Libros(Codigo);
+Create NonClustered Index LibrosTitulo On Libros(Titulo);
 
 
 
