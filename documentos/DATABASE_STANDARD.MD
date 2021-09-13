@@ -1,4 +1,4 @@
-
+<!--ts-->
 # Índices
 * [Introducción](#item1)
 * [Justificación](#item2)
@@ -12,7 +12,7 @@
 <a name="item4"></a>
 <a name="item5"></a>
 <a name="item6"></a>
-### Estandar para llaves foráneas
+<!--te-->
 
 
 # *Introducción*
