@@ -1,8 +1,7 @@
-<!--ts-->
+
 # Índices
-    *[Introducción](#introducción)
- 
-<!--te-->
+1- [Introducción](#introducción)
+
 
 
 # *Introducción*
