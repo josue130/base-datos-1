@@ -6,6 +6,7 @@
 * [Estandar para atributos](#estandar-para-atributos)
 * [Estandar para llaves primarias](#estandar-para-llaves-primarias)
 * [Estandar para llaves foráneas](#estandar-para-llaves-foráneas)
+* [Estandar para índices](#estandar-para-indices)
 <!--te-->
 
 
@@ -62,10 +63,11 @@ create table PascalCase(
 	Constraint CodigoLibro_Fk Foreign key (CodigoLibro) References Libro(Codigo)
 	
 	);
-# *Estandar para indices*
+# *Estandar para índices*
 Para el estandar de indices se utiliza de igual manera la letra en mayúscula en el comienzo de la palabra. Ejemplos:
 
 Create Unique Clustered Index LibrosCodigo On Libros(Codigo);
+
 Create NonClustered Index LibrosTitulo On Libros(Titulo);
 
 
