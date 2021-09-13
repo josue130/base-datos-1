@@ -12,7 +12,7 @@
 <a name="item4"></a>
 <a name="item5"></a>
 <a name="item6"></a>
-### Estandar para para llaves foráneas
+### Estandar para llaves foráneas
 
 
 # *Introducción*
