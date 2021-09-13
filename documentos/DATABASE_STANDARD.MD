@@ -22,8 +22,8 @@ Se utiliza la primera letra en mayúscula para el comienzo de la palabra, si el 
 
 Create Table PascalCase(
 
-	*Nombre varchar(30) not null*,
-	*FechaPrestamo date*
+	Nombre varchar(30) not null,
+	FechaPrestamo date
 	
 );
 
@@ -32,29 +32,18 @@ Para las llaves primarias se utiliza de igual manera la letra en mayúscula para
 
 Create Table PascalCase(
 
-	*Nombre varchar(30) primary key*
-	
+	Nombre varchar(30) primary key o NombreUsuario varchar(30) primary key
 );
 
-*Create Table PascalCase**(
-
-	NombreUsuario varchar(30) primary key
-	
-);
 
 Una excepción en este estándar es el uso Pk que suele ser utilizado al inicio de llave primaria o final. Ejemplo:
 
 Create Table PascalCase(
 
-	NombrePk varchar(30) primary key
-	
+	NombrePk varchar(30) primary key o PkNombreUsuario varchar(30) primary key
 );
 
-*Create Table PascalCase**(
 
-	PkNombreUsuario varchar(30) primary key
-	
-);
 
 
 
