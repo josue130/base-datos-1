@@ -1,11 +1,11 @@
 <!--ts-->
 # Índices
-* [Introducción](#introducción)
+	* [Introducción](#introducción)
 * [Justificación](#jus)
 * [Estandar para entidades](#EstandarEn)
 * [Estandar para atributos](#EstandarAtr)
 * [Estandar para llaves primarias](#EstandarPri)
-* [Estandar para para llaves foráneas](#EstandarFo)
+	* [Estandar para para llaves foráneas](#EstandarFo)
 <!--te-->
 
 
