@@ -1,16 +1,13 @@
+<!--ts-->
 # Índices
-1. [*Introducción*](#introducción)
+* [Introducción](#introducción)
 2. [*Justificación*](#jus)
 3. [Estandar para entidades](#EstandarEn)
 4. [Estandar para atributos](#EstandarAtr)
 5. [Estandar para llaves primarias](#EstandarPri)
-6. [*Estandar para para llaves foráneas*](#EstandarFo)
+* [Estandar para para llaves foráneas](#EstandarFo)
+<!--te-->
 
-<a name="introducción"></a>
-<a name="jus"></a>
-<a name="EstandarEn"></a>
-<a name="EstandarPri"></a>
-<a name="EstandarFo"></a>
 
 # *Introducción*
 
