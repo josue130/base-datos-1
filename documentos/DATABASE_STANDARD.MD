@@ -1,6 +1,7 @@
 <!--ts-->
 # Índice
-	*[Introducción]
+    *[Introducción](#Introducción)
+ 
 <!--te-->
 
 
